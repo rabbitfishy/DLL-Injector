@@ -56,6 +56,7 @@ Tested on CLion with MSVC compiler, you can get Visual Studio Build Tools [**her
 
 Use it in the command line :
 
+    cd <directory>
     inject.exe <dll> <process>
 **You can get the DLL injector (x86 / x64) and the test files (x86 / x64) in the "Release" section.**
 
@@ -64,3 +65,4 @@ Use it in the command line :
 ### TEST FILES (x86)
 
 https://user-images.githubusercontent.com/48086737/170119196-8610ee0b-984e-4a42-a931-007dccd3d8c0.mp4
+
